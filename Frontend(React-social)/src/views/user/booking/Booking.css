@@ -1,0 +1,11 @@
+/* .{
+    background-color: rgb(231, 202, 165);
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+  } */
+
+/* CSS ở nơi khác trong file hoặc file riêng biệt */
+.selected-movie:hover {
+  color: blue;
+}
